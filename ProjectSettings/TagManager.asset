@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Fluid
   - glass1
+  - glass2
   layers:
   - Default
   - TransparentFX
